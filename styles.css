@@ -1,4 +1,13 @@
 #header{
     display: flex;
-    justify-content: center;
-}
+    align-items: start;
+  }
+  
+  #video{
+    width: 560px;
+    height: 315px;
+  }
+  
+  #header-img{
+    height: 100px;
+  }
